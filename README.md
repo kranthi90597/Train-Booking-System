@@ -36,7 +36,7 @@ The application uses an in-memory array to store seat availability. Each seat is
 ## Instructions to Run Locally
 1. **Clone the repository**: 
    ```bash
-   git clone (https://stackblitz.com/~/github.com/kranthi90597/Train-Booking-System)
+   git clone https://stackblitz.com/~/github.com/kranthi90597/Train-Booking-System
    ```
 2. **Navigate to the project directory**:
    ```bash
