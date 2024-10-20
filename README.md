@@ -53,12 +53,12 @@ The application uses an in-memory array to store seat availability. Each seat is
  5. **Access the app**: Open your browser and go to http://localhost:4200 to view the application.
 
 ## Project Structure
-The key files in the project include:
+**The key files in the project include**:
 
--src/app/app.component.ts: Main component logic.
--src/app/app.component.html: Template for the main view.
--src/app/app.component.css: Styling for the main view.
--src/app/hello.component.ts: Additional component used for greetings.
+- src/app/app.component.ts: Main component logic.
+- src/app/app.component.html: Template for the main view.
+- src/app/app.component.css: Styling for the main view.
+- src/app/hello.component.ts: Additional component used for greetings.
 
 ## How to Use
 1. Select Number of Seats: Enter the number of seats you want to book.
