@@ -2,6 +2,14 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/kranthi90597/Train-Booking-System)
 
+## Snapshots of the output
+### Seating arrangement
+![{DB70F002-38E6-4296-98F0-1D4597591335}](https://github.com/user-attachments/assets/242af2b9-b510-4a9b-96aa-4070c55c5367)
+
+### Seats Booking 
+![Uploading {C5FA2E3E-8AD0-4DCD-B55A-F82E1499A769}.png…]()
+
+
 ## Description
 This project is a simple Angular application that simulates a train seat booking system. The train coach has a total of 80 seats. Users can book seats, and the booking logic prioritizes:
 1. Booking seats in a single row if possible.
