@@ -40,7 +40,7 @@ The application uses an in-memory array to store seat availability. Each seat is
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd train-booking-system
+   cd Train-Booking-System
    ```
 3. **Install dependencies: Run the following command to install the required packages**:
    ```bash
