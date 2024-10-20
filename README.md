@@ -9,6 +9,9 @@
 ### Seats Booking 
 ![Uploading {C5FA2E3E-8AD0-4DCD-B55A-F82E1499A769}.png…]()
 
+### 6 Seats have booked
+![Uploading {FC099970-C321-4C64-8BBA-37F538B7A6A6}.png…]()
+
 
 ## Description
 This project is a simple Angular application that simulates a train seat booking system. The train coach has a total of 80 seats. Users can book seats, and the booking logic prioritizes:
