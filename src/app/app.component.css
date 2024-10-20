@@ -1,0 +1,34 @@
+.coach {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.coach div {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.available {
+  background-color: lightgreen;
+}
+
+.booked {
+  background-color: lightcoral;
+}
+
+.booking {
+  margin-bottom: 20px;
+}
+
+input[type='number'] {
+  width: 200px;
+  margin-right: 10px;
+}
+
+.booked-seats {
+  margin-top: 20px;
+}
